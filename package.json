@@ -2,7 +2,10 @@
   "name": "editor",
   "version": "0.1.0",
   "private": true,
+  "main": "main.js",
+  "homepage": ".",
   "dependencies": {
+    "electron": "^5.0.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -11,7 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "electron-start": "electron ."
   },
   "eslintConfig": {
     "extends": "react-app"
