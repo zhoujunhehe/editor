@@ -1,7 +1,8 @@
-# 一个简单的编辑器,基于Electron react jscodeshift,主要是用来练习
+# 一个简单的编辑器,基于Electron react jscodeshift
+兴趣使然做的编辑器,主要是用于学习,目前的功能并不足以用于实际开发
 
 # INSTALLING
-下载之后 运行npm install >  npm start > electron-start
+下载之后 运行npm install >  npm start > npm run electron-start 
 
 # feature
 1. 基础的编辑功能
